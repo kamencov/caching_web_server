@@ -29,8 +29,7 @@ MAX_SIZE_FILE="50"
 Используйте Makefile для удобства:
 
 # Запуск в Docker
-```bash
-make run_docker```
+make run_docker
 
 Эта команда:
 	•	Поднимет контейнеры postgres, minio и golang
